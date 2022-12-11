@@ -1,5 +1,5 @@
 # bio_collect
-Collect all kinds of materials of bioinformatics
+Collect all kinds of materials of bioinformatics.
 
 [Awesome DeepBio](https://github.com/gokceneraslan/awesome-deepbio)  
 A curated list of awesome deep learning applications in the field of computational biology during 2007-2019.
